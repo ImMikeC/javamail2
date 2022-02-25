@@ -1,0 +1,2 @@
+module javamail2 {
+}
